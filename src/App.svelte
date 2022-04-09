@@ -7,6 +7,8 @@
 		import Contact from "./Contact.svelte"
 		import Footer from "./Footer.svelte"
 
+	
+
 
 </script>
 
@@ -19,32 +21,36 @@
 	<Header></Header>
 
 
-
+<section>
 <ul>
-	<li><a href="About.svelte">[[ABOUT</a></li>
-	<li><a href="Projects.svelte">[[KEA-PROJECTS</a></li>
-	<li><a href="Photo.svelte">[[PHOTOGRAFY/GRAFICS</a></li>
+	<li><a href="About.svelte">[[ ABOUT</a></li>
+	<li><a href="Projects.svelte">[[ KEA-PROJECTS</a></li>
+	<li><a href="Photo.svelte">[[ PHOTOGRAFY/GRAFICS</a></li>
 	<li><a href="Contact.svelte">[[CONTACT</a></li>
 	</ul>
 
-<section>
+<div>
 	<About></About>
-</section>
+</div>
 
 
-<section>
+<div>
 	<Projects></Projects>
-</section>
 
-	<section>
+	
+	
+</div>
+
+	<div>
 	<Photo></Photo>
-</section>
+</div>
 
-<section>
+<div>
 	<Contact></Contact>
+</div>
+
+
 </section>
-
-
 
 </main>
 
@@ -52,6 +58,24 @@
 
 
 <style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	section {
 		display: block;
 	}
@@ -98,5 +122,7 @@ color: var(--primary-hover-color);
 	li a {
 		padding: 2rem;
 	}
+
+
 }
 </style>

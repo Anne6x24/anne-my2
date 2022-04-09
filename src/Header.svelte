@@ -1,4 +1,8 @@
 <script>
+
+  import { scrollTo, scrollRef, scrollTop } from 'svelte-scrolling'
+
+
 import { tick } from 'svelte';
 
 
@@ -9,11 +13,6 @@ function mouseOver (){
     paused = false;
 }
 
-// function mouseOut (){
-//     paused = true;
-//     time = 0;
-// }
-
 async function mouseOut(){
 
 await tick()
@@ -23,6 +22,8 @@ paused=true;
 
 
 }
+
+
 
 </script>
 
@@ -35,11 +36,13 @@ paused=true;
 </video>
 
 
-<h1 on:focus on:pointerenter={mouseOver} on:blur on:pointerleave={mouseOut} id="myBtn" class="heading">ANNE MY - MULTIMEDIA/DIGITAL DESIGNER</h1>
+<h1 on:focus on:pointerenter={mouseOver} on:blur on:pointerleave={mouseOut} id="myBtn" class="heading">ANNE MY MUNKSGAARD THAYSEN</h1>
 
 <div class="pil">
-<img src="./down-arrow.png" alt="" >
+    <a on:click={() => scrollTo('.menu')} href="/#/"><img on:click={() => scrollTo('menu')} src="./down-arrow.png" alt="pil"></a>
 </div>
+
+
 
 </section>
 
@@ -153,6 +156,11 @@ img {
 }
 
 }
+
+
+
+
+
 
 
 

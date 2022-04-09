@@ -1,12 +1,12 @@
 
 
-<p class="top">please note that this site is created using svelte</p>
+
 
 
 <section>
-    <div>
+    <div class="top">
 <h2>ANNE MY MUNKSGAARD THAYSEN</h2>
-<h3>MULTIMEDIA/DEGITAL DESIGNER</h3>
+<h3>MULTIMEDIA / DEGITAL DESIGNER</h3>
 
 <p class="text">big honesty, big creativity, big dedication, sensitivity, 
     joy for community and people. innovation and brainstorming without an ending. 
@@ -72,13 +72,7 @@
 
 
 <style>
-    .top {
-        font-size: x-small;
-        /* border-bottom: 1px solid black; */
-        text-decoration: underline 1px;
-        width: 60%;
-        padding-top: 2rem;
-    }
+   
 
     .bottom {
         font-size: x-small;
@@ -90,7 +84,8 @@
     }
 
     .text {
-        padding-top: 1rem;
+        padding-block: 1rem;
+
 
     }
 
@@ -103,22 +98,17 @@
     }
 
    
-
-    img {
-        width: 100%;
-        border: 1px solid black;
-        
-    }
    
     h3 {
 
         font-size:small;
     }
 
-    .billed {
-        padding-top: 4rem;
-    
+    img {
+        width: 20rem;
+        border: 1px solid black;
     }
+ 
 
     .overskrift {
         border-bottom: 1px solid black;
@@ -131,6 +121,28 @@
         padding-bottom: 1rem;
     }
 
+    @media (min-width: 810px) {
+
+        .top {
+            margin-inline: 5rem;
+           
+        }
+
+        .billed {
+            width: 20rem;
+        }
+        .skill01, section {
+        display: flex;
+        margin: 0;
+       
+    }
+
+    .skills {
+        margin: 2rem;
+    }
+
+    }
+
     @media (min-width: 1024px) {
     .skill01, section {
         display: flex;
@@ -141,7 +153,7 @@
 
     .top {
         font-size: medium;
-        width: 35%;
+        width: 58%;
     }
 
     .bottom {
