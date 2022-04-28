@@ -1,6 +1,12 @@
+<script>
+import { scrollTo, scrollRef, scrollTop } from 'svelte-scrolling'
+		import * as animateScroll from "svelte-scrollto";
+</script>
+
+
 
 <div class="foot">
-<h3>ANNE MY MUNKSGAARD THAYSEN</h3>
+<h3 on:click={() => animateScroll.scrollTo({element: '.section_wrapper'})} href="/#/">ANNE MY MUNKSGAARD THAYSEN</h3>
 <img src="" alt="">
 </div>
 
@@ -9,6 +15,7 @@
    h3 {
        font-size: small;
        padding-left: 0.5rem;
+       cursor: pointer;
    }
 
     .foot {

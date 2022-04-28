@@ -2,7 +2,6 @@
 
 
 
-
 <section>
     <div class="top">
 <h2>ANNE MY MUNKSGAARD THAYSEN</h2>
@@ -110,64 +109,88 @@
     }
  
 
-    .overskrift {
+    /* .overskrift {
         border-bottom: 1px solid black;
         width: 100%;
        
+    } */
+
+    .overskrift {
+        margin-inline: 2rem;
     }
 
     .skills {
-        margin: 3rem;
+        margin: 0.5rem;
         padding-bottom: 1rem;
     }
 
     @media (min-width: 810px) {
 
         .top {
-            margin-inline: 5rem;
+            margin:5rem;
+            
            
         }
 
         .billed {
             width: 20rem;
+            margin-top: 9rem;
         }
-        .skill01, section {
+        .skill01 {
         display: flex;
-        margin: 0;
+        margin-inline: 5rem;
+       
+    }
+
+    .overskrift {
+        margin-left: 5rem;
+    }
+
+    section {
+        display: flex;
+        margin-bottom: 8rem;
        
     }
 
     .skills {
-        margin: 2rem;
+        margin-right: 2rem;
     }
+
+    h4 {
+        margin: 0;
+        padding-left: 1rem;
+    }
+
+   
 
     }
 
     @media (min-width: 1024px) {
     .skill01, section {
         display: flex;
-        margin: 4rem;
-        padding-left: 6rem;
-        padding-right: 6rem;
+        
     }
 
     .top {
         font-size: medium;
-        width: 58%;
+        margin-block:5rem;
+        margin-inline: clamp(3rem, -0.40000000000000036rem + 17vw, 20rem);
+           
+    
+       
     }
 
     .bottom {
         font-size: medium;
     }
 
-
-
-    .text {
-        width: 35rem;
-        padding-right: 10rem;
+    .billed {
+        margin-top: 9rem;
+        margin-right: 5rem;
     }
 
     
 }
+
 
 </style>

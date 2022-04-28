@@ -6,6 +6,8 @@
 		import Photo from "./Photo.svelte"
 		import Contact from "./Contact.svelte"
 		import Footer from "./Footer.svelte"
+		import { scrollTo, scrollRef, scrollTop } from 'svelte-scrolling'
+		import * as animateScroll from "svelte-scrollto";
 
 	
 
@@ -21,12 +23,12 @@
 	<Header></Header>
 
 
-<section>
+<section class="menu">
 <ul>
-	<li><a href="About.svelte">[[ ABOUT</a></li>
-	<li><a href="Projects.svelte">[[ KEA-PROJECTS</a></li>
-	<li><a href="Photo.svelte">[[ PHOTOGRAFY/GRAFICS</a></li>
-	<li><a href="Contact.svelte">[[CONTACT</a></li>
+	<li><a on:click={() => animateScroll.scrollTo({element: '.menu'})} href="/#/">[[ ABOUT</a></li>
+	<li><a on:click={() => animateScroll.scrollTo({element: '.bottom'})} href="/#/">[[ KEA-PROJECTS</a></li>
+	<li><a on:click={() => animateScroll.scrollTo({element: '.photo'})} href="/#/">[[ PHOTOGRAFY/GRAFICS</a></li>
+	<li><a on:click={() => animateScroll.scrollTo({element: '.contact'})} href="/#/">[[ CONTACT</a></li>
 	</ul>
 
 <div>

@@ -5,7 +5,7 @@
 
 
 </script>
-<section>
+<section class="projects">
 
    
 
@@ -90,12 +90,6 @@
 
 
 
-
-
-
-
-
-
     section {
         background-color:  var(--primary-text-color);
         padding-bottom: 2rem;
@@ -123,8 +117,6 @@
 
     h2 {
         color: white;
-        border-bottom: 1px solid white;
-        width: 100%;
         margin-left: 1.5rem;
         margin-right: 1.5rem;
         padding-top: 2rem;
@@ -185,6 +177,9 @@
             margin-right: -4rem;
         }
 
+            h2 {
+                margin-left: 5rem;
+            }
 
 
         /* .indhold1, .indhold2, .indhold3, .indhold4 {
@@ -198,7 +193,7 @@
 
     @media (min-width: 1250px) {
         .disclmr, .grob, .ungdomsbyen, .same {
-            
+            padding-inline: 12rem;
             grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
            
         }
@@ -222,6 +217,8 @@
             grid-row: 1;
             margin-top: 0;
         }
+
+
     }
 
 

@@ -1,4 +1,4 @@
-<h2 class="overskrift">CONTACT</h2>
+<h2 class="overskrift contact">CONTACT</h2>
 
 <div class="afsnit">
 <li class="liste"><a class="font" href = "mailto: anne.thaysen@gmail.com">[[ anne.thaysen@gmail.com</a></li>
