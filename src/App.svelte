@@ -1,6 +1,5 @@
 <script>
 		import Header from "./Header.svelte"
-		import Menu from "./Menu.svelte"
 		import About from "./About.svelte"
 		import Projects from "./Projects.svelte"
 		import Photo from "./Photo.svelte"
