@@ -30,7 +30,7 @@
 
 
 <div>
-<h4>[[INTERFACE DESIGN</h4>
+<h3>[[INTERFACE DESIGN</h3>
 <ul class="skills">
     <li><p>responsive webdesign</p></li>
     <li><p>code using: HTML, CSS, JavaScript, Tailwind and Svelte</p></li>
@@ -44,7 +44,7 @@
 </div>
 
 <div>
-<h4>[[CORPORATE DESIGN AND CREATIVE PRODUCTION</h4>
+<h3>[[CORPORATE DESIGN AND CREATIVE PRODUCTION</h3>
 <ul class="skills">
     <li><p>create logo-design</p></li>
     <li><p>create illustrations and animations</p></li>
@@ -57,7 +57,7 @@
 </div>
 
 <div>
-<h4>[[INFORMATION DESIGN</h4>
+<h3>[[INFORMATION DESIGN</h3>
 <ul class="skills">
     <li><p>informationsystems and designs</p></li>
     <li><p>infografik og diagrammer</p></li>
@@ -76,7 +76,6 @@
    
 
     .bottom {
-        font-size: x-small;
         text-decoration: underline 1px;
         width: 100%;
         padding-top: 2rem;
@@ -86,20 +85,11 @@
 
 
 
-    h2 {
-        padding-top: 2rem;
-    }
-
-    .top, .skill01, h4 {
+    .top {
         margin: 2rem;
     }
 
-   
-   
-    h3 {
-
-        font-size:small;
-    }
+ 
 
     img {
         width: 20rem !important;
@@ -119,6 +109,10 @@
         padding-bottom: 1rem;
     }
 
+    .skill01 {
+        margin-inline: 2rem;
+    }
+
     @media (min-width: 800px) {
 
         .top {
@@ -133,8 +127,6 @@
         .skill01 {
         display: flex;
         margin-inline: 5rem;
-
-        
        
     }
 
@@ -156,13 +148,6 @@
         margin-right: 2rem;
     }
 
-    h4 {
-        margin: 0;
-        padding-left: 1rem;
-    }
-
-   
-
     }
 
     @media (min-width: 1024px) {
@@ -170,25 +155,13 @@
         display: flex;
         
     }
-
-    .top_text {
-        font-size: medium;
-        
-    }
-
-
-
-    .bottom {
-        font-size: medium;
-    }
-
     .text {
         margin-right: 10rem;
     }
 
-  
-
-    
+    .top {
+            margin: 5rem;  
+        }
 }
 
 

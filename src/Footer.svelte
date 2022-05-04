@@ -13,7 +13,6 @@ import { scrollTo, scrollRef, scrollTop } from 'svelte-scrolling'
 <style>
    
    h3 {
-       font-size: small;
        padding-left: 0.5rem;
        cursor: pointer;
    }
@@ -24,9 +23,5 @@ import { scrollTo, scrollRef, scrollTop } from 'svelte-scrolling'
         width: 100%;
     }
 
-    @media (min-width: 1024px) {
-        h3 {
-            font-size: medium;
-        }
-    }
+   
 </style>
