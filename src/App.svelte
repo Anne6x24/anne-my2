@@ -22,14 +22,14 @@
 	<Header></Header>
 
 
-<section class="menu">
+
 <ul>
-	<li><a on:click={() => animateScroll.scrollTo({element: '.menu'})} href="/#/">[[ ABOUT</a></li>
+	<li><a on:click={() => animateScroll.scrollTo({element: '.about'})} href="/#/">[[ ABOUT</a></li>
 	<li><a on:click={() => animateScroll.scrollTo({element: '.bottom'})} href="/#/">[[ KEA-PROJECTS</a></li>
 	<li><a on:click={() => animateScroll.scrollTo({element: '.photo'})} href="/#/">[[ PHOTOGRAFY/GRAFICS</a></li>
 	<li><a on:click={() => animateScroll.scrollTo({element: '.contact'})} href="/#/">[[ CONTACT</a></li>
 	</ul>
-</section>
+
 
 
 
@@ -64,13 +64,6 @@
 
 
 
-
-	section {
-		display: block;
-	}
-
-
-
 	ul {
 		list-style-type: none;
 		margin: 0;
@@ -80,7 +73,6 @@
 		position: -webkit-sticky; /* Safari */
 		position: sticky;
 		top: 0;
-		border-top: 1px solid black;
 		border-bottom: 1px solid black;
 
 }

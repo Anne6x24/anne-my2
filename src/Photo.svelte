@@ -9,10 +9,15 @@
 <section class="photo">
  
 
-
+<div class="photo_top">
     <h2>PHOTOGRAFY/GRAFICS</h2>
+    <h3>below is different photografys taken by me, for more check out my instagram: <a class="font" href="https://www.instagram.com/annemy.jpg/">@annemy.jpg</a></h3>
+</div>
   
     <h4>[[ AGENCY6.</h4>
+    <p>"AGENCY6 CREATES CREATIVE CONCEPTS AND CAMPAIGNS FOR BRANDS WITHIN THE REALMS OF FASHION, 
+        LIFESTYLE, AND ENTERTAINMENT.  DELIVERING ORIGINAL IMAGERY, WITH THE PURPOSE TO MAKE YOUR 
+        BRAND STAND OUT."</p>
     <div class="agency">
 
         <div class="a1">
@@ -167,7 +172,7 @@
 
 
 
-    h2 {
+    .photo_top {
         color: var(--primary-text-color);
         border-bottom: 1px solid white;
         margin-left: 1.5rem;
@@ -190,8 +195,8 @@
            margin-top: 5rem;
        } 
 
-    h2, h4 {
-                margin-left: 5rem;
+    .photo {
+                margin-inline: 5rem;
             }
     
 

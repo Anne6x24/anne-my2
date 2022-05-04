@@ -46,13 +46,12 @@
 <div>
 <h3>[[CORPORATE DESIGN AND CREATIVE PRODUCTION</h3>
 <ul class="skills">
-    <li><p>create logo-design</p></li>
-    <li><p>create illustrations and animations</p></li>
-    <li><p>create prototypes, styletiles and moodboards</p></li>
-    <li><p>do research-processes, contentproduction and sketches</p></li>
-    <li><p>work in Adobe programs such as Photoshop, Illistrator, After Effects, Lightroon and InDesign</p></li>
-    <li><p>work with video/photo-production and editing with small skills of colorgrading/correction</p></li>
-    <li><p>create solutions with web-accesibility</p></li>
+    <li><p>logo-design</p></li>
+    <li><p>illustrations and animations</p></li>
+    <li><p>prototypes, styletiles and moodboards</p></li>
+    <li><p>research-processes, contentproduction and sketches</p></li>
+    <li><p>Adobe programs such as Photoshop, Illistrator, After Effects, Lightroon and InDesign</p></li>
+    <li><p>video/photo-production and editing with small skills of colorgrading/correction</p></li>
 </ul>
 </div>
 
