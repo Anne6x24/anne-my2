@@ -11,6 +11,27 @@ body {
 	
 }
 
+@media (prefers-reduced-motion: no-preference) {
+	html {
+		scroll-behavior: smooth;
+	}
+}
+
+.about {
+	display: grid;
+	grid-template-columns: 1fr minmax(0, 1500px) 1fr;
+	
+  }
+  
+  .about > * {
+	grid-column: 2;
+  }
+
+  .projects, .photo {
+	grid-column: 1 / -1;
+  }
+
+
 
 h1, a, h2, h3 {
 	font-family: 'Saira Condensed', sans-serif;
@@ -30,5 +51,14 @@ p, h4 {
 	font-weight: lighter;
 }
 
+p,
+a {
+  font-size: clamp(0.8rem, 0.76rem + 0.19999999999999996vw, 1rem);
+  
+}
 
+img {
+	width: 100%;
+	height: auto;
+  }
 

@@ -12,9 +12,8 @@
 
     <h2>PHOTOGRAFY/GRAFICS</h2>
   
-
+    <h4>[[ AGENCY6.</h4>
     <div class="agency">
-        <h4>[[ AGENCY6.</h4>
 
         <div class="a1">
             <img src="./a1.jpg" alt="">
@@ -52,9 +51,9 @@
     </div>
     
     
-        
+    <h4>[[ lilleTUTU</h4>
      <div class="tutu">
-        <h4>[[ lilleTUTU</h4>
+        
 
         <div class="t1">
             <img src="./t1.jpg" alt="">
@@ -89,8 +88,9 @@
         </div>
     </div>
     
+    <h4>[[ PORTRAITS</h4>
     <div class="portraits">
-        <h4>[[ PORTRAITS</h4>
+        
 
         <div class="p1">
             <img src="./p1.JPG" alt="">
@@ -125,9 +125,7 @@
         </div>
     </div>
     
-    <div class="grafics">
-        <h4>[[ GRAFICS AND EDITS</h4>
-    </div>
+    
 
 </section>
 
@@ -144,10 +142,10 @@
         
     }
 
-    .tutu, .portraits, .agency, .grafics {
+    .tutu, .portraits, .agency {
             display: grid;
             grid-template-columns: 1fr 1fr 1fr 1fr;
-            
+            margin-bottom: 5rem;
     }
 
 
@@ -172,13 +170,17 @@
     h2 {
         color: var(--primary-text-color);
         border-bottom: 1px solid white;
-        width: 100%;
+        margin-left: 1.5rem;
+        margin-right: 1.5rem;
+        padding-top: 2rem;
         
     }
 
 
     h4 {
         color: var(--primary-text-color);
+        margin-left: 1.5rem;
+        margin-right: 1.5rem;
     }
 
 

@@ -30,29 +30,30 @@
 	<li><a on:click={() => animateScroll.scrollTo({element: '.photo'})} href="/#/">[[ PHOTOGRAFY/GRAFICS</a></li>
 	<li><a on:click={() => animateScroll.scrollTo({element: '.contact'})} href="/#/">[[ CONTACT</a></li>
 	</ul>
+</section>
 
-<div>
+
+
 	<About></About>
-</div>
 
 
-<div>
+
+
 	<Projects></Projects>
 
 	
-	
-</div>
 
-	<div>
+
+
 	<Photo></Photo>
-</div>
 
-<div>
+
+
 	<Contact></Contact>
-</div>
 
 
-</section>
+
+
 
 </main>
 
@@ -60,19 +61,6 @@
 
 
 <style>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

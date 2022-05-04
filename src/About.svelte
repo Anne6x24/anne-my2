@@ -1,31 +1,32 @@
 
 
 
+<section class="about">
+<div class="top">
+    <div class="top_text">
+        <h2>ANNE MY MUNKSGAARD THAYSEN</h2>
+        <h3>MULTIMEDIA / DEGITAL DESIGNER</h3>
 
-<section>
-    <div class="top">
-<h2>ANNE MY MUNKSGAARD THAYSEN</h2>
-<h3>MULTIMEDIA / DEGITAL DESIGNER</h3>
-
-<p class="text">big honesty, big creativity, big dedication, sensitivity, 
-    joy for community and people. innovation and brainstorming without an ending. 
-    i know how to program a website/shop using HTML, CSS and JavaScript, i also know how to draw, write, 
-    paint, design and photograf. I can visualize your or maybe a clients ideas and 
-    thereby participate in the creation. i can convey culture and aesthetics none the less am 
-    I a good listener who is not afraid of being critical of norms.i am curious as well as researching 
-    and currently learning about e-commerce through my education</p>
-</div>
+        <p class="text">big honesty, big creativity, big dedication, sensitivity, 
+                        joy for community and people. innovation and brainstorming without an ending. 
+                        i know how to program a website/shop using HTML, CSS and JavaScript, i also know how to draw, write, 
+                        paint, design and photograf. I can visualize your or maybe a clients ideas and 
+                        thereby participate in the creation. i can convey culture and aesthetics none the less am 
+                        I a good listener who is not afraid of being critical of norms.i am curious as well as researching 
+                        and currently learning about e-commerce through my education
+                    </p>
+    </div>
 
     <div class="billed">
-<img src="./mig.png" alt="">
+        <img src="./mig.png" alt="">
+    </div>
 </div>
-</section>
 
 
 <h2 class="overskrift">SET OF SKILLS</h2>
 
 
-<section class="skill01">
+<div class="skill01">
 
 
 <div>
@@ -45,11 +46,11 @@
 <div>
 <h4>[[CORPORATE DESIGN AND CREATIVE PRODUCTION</h4>
 <ul class="skills">
-    <li><p>logo-design</p></li>
+    <li><p>create logo-design</p></li>
     <li><p>create illustrations and animations</p></li>
     <li><p>create prototypes, styletiles and moodboards</p></li>
-    <li><p>research-processes, contentproduction and sketches</p></li>
-    <li><p>Adobe programs such as Photoshop, Illistrator, After Effects, Lightroon and InDesign</p></li>
+    <li><p>do research-processes, contentproduction and sketches</p></li>
+    <li><p>work in Adobe programs such as Photoshop, Illistrator, After Effects, Lightroon and InDesign</p></li>
     <li><p>work with video/photo-production and editing with small skills of colorgrading/correction</p></li>
 </ul>
 </div>
@@ -65,11 +66,11 @@
 </ul>
 </div>
 
-</section>
+</div>
 
 <p class="bottom">listed skillset is documentet below in different projects</p>
 
-
+</section>
 <style>
    
 
@@ -82,17 +83,13 @@
         margin-bottom: 4rem;
     }
 
-    .text {
-        padding-block: 1rem;
 
-
-    }
 
     h2 {
         padding-top: 2rem;
     }
 
-    section, h4 {
+    .top, .skill01, h4 {
         margin: 2rem;
     }
 
@@ -104,16 +101,13 @@
     }
 
     img {
-        width: 20rem;
+        width: 20rem !important;
         border: 1px solid black;
     }
- 
 
-    /* .overskrift {
-        border-bottom: 1px solid black;
-        width: 100%;
-       
-    } */
+    .top_text {
+        margin-bottom: 2rem;
+    }
 
     .overskrift {
         margin-inline: 2rem;
@@ -124,31 +118,36 @@
         padding-bottom: 1rem;
     }
 
-    @media (min-width: 810px) {
+    @media (min-width: 800px) {
 
         .top {
-            margin:5rem;
-            
-           
+            margin:3rem;
+            gap: 2rem;  
         }
 
-        .billed {
-            width: 20rem;
-            margin-top: 9rem;
+
+        img {
+            width: 16rem;
         }
         .skill01 {
         display: flex;
         margin-inline: 5rem;
+
+        
        
     }
+
+    h2 {
+            padding: 0;
+        }
 
     .overskrift {
         margin-left: 5rem;
     }
 
-    section {
+    .top {
         display: flex;
-        margin-bottom: 8rem;
+        margin-bottom: 3rem;
        
     }
 
@@ -166,31 +165,48 @@
     }
 
     @media (min-width: 1024px) {
-    .skill01, section {
+    .skill01, .top {
         display: flex;
         
     }
 
-    .top {
+    .top_text {
         font-size: medium;
-        margin-block:5rem;
-        margin-inline: clamp(3rem, -0.40000000000000036rem + 17vw, 20rem);
-           
-    
-       
+        
     }
+
+
 
     .bottom {
         font-size: medium;
     }
 
-    .billed {
-        margin-top: 9rem;
-        margin-right: 5rem;
+    .text {
+        margin-right: 10rem;
     }
+
+  
 
     
 }
 
+
+@media (min-width: 1250px) {
+
+    .top{
+        margin: 7rem;
+    }
+
+    .top_text {
+        width: 50rem;
+        margin-top: 3rem;
+    }
+
+    img {
+        width: 24rem !important;
+        margin-left: 7rem;
+    }
+
+}
 
 </style>

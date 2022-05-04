@@ -1,4 +1,7 @@
-<h2 class="overskrift contact">CONTACT</h2>
+
+<section class="contact">
+
+<h2 class="overskrift">CONTACT</h2>
 
 <div class="afsnit">
 <li class="liste"><a class="font" href = "mailto: anne.thaysen@gmail.com">[[ anne.thaysen@gmail.com</a></li>
@@ -9,11 +12,12 @@
 
 <p class="bund">location - copgenhagen, denmark</p>
 
-
+</section>
 <style>
-        .overskrift {
-        border-bottom: 1px solid black;
-        width: 100%;
+ .overskrift {
+     margin-left: 1.5rem;
+     margin-right: 1.5rem;
+
         
     }
 
@@ -31,6 +35,12 @@
     .bund {
         display: flex;
         justify-content: center;
+    }
+
+    .contact {
+       
+	border-top: 1px solid black;
+
     }
 
 

@@ -16,69 +16,67 @@
 <div class="disclmr">
     
     
-    <!-- <img class="img1" src="./mood.png" alt=""> -->
+    <img class="img1" src="./grob_com.png" alt="">
    
    
    
 
     <div class="indhold1">
-    <h3>[[ DISCLMR</h3>
-    <p>this project created a fundamental understanding of 
-        the interaction between the user and the userinterface as 
-        well as which theories, tool and metheos to apply for reaseach, 
-        design and text in digital content-production. theme 03 revoles around 
-        different insights about the users instead of guesses and assumptions</p>
-        <Button>click here to watch the process and final product</Button>
+        <h3>[[ TEATER GROB</h3>
+        <p>theme 08 mainly focuses on working with content-production in forms of SoMe, 
+            video-produktion and graphic elements across different platforms. 
+            this theme had a strong focus on planing, ide-generation and concept development. 
+            in this theme our client was Teater Grob and our task where to make a campaign-site and content</p>
+            <Button>click here to watch the process and final product</Button>
     </div>
 </div>
 
 
 <div class="grob">
     
-    <!-- <img class="img2" src="./GROB.png" alt=""> -->
-
+    
+    <img class="img2" src="./ungdom_com.png" alt="">
    
 
     <div class="indhold2">
-    <h3>[[ TEATER GROB</h3>
-    <p>theme 08 mainly focuses on working with content-production in forms of SoMe, 
-        video-produktion and graphic elements across different platforms. 
-        this theme had a strong focus on planing, ide-generation and concept development. 
-        in this theme our client was Teater Grob and our task where to make a campaign-site and content</p>
-        <Button>click here to watch the process and final product</Button>
+        <h3>[[ Ungdomsbyen</h3>
+        <p>theme 09 where centered around information-architecture and dynamic web-solutions. 
+            our client where Ungdomsbyen, and the task where to redesign their site and improve 
+            the information-architecture</p>
+            <Button>click here to watch the original product</Button>
+            <Button>click here to watch the process and final product</Button>
     </div>
+
+    
 </div>
 
 <div class="ungdomsbyen">
     
-    <!-- <img class="img3" src="./ungdomsbyen.png" alt=""> -->
+    <img class="img3" src="./same_com.png" alt="">
 
    
 
     <div class="indhold3">
-    <h3>[[ Ungdomsbyen</h3>
-    <p>theme 09 where centered around information-architecture and dynamic web-solutions. 
-        our client where Ungdomsbyen, and the task where to redesign their site and improve 
-        the information-architecture</p>
-        <Button>click here to watch the original product</Button>
-        <Button>click here to watch the process and final product</Button>
+        <h3>[[ Ungdomsbyen</h3>
+        <p>theme 09 where centered around information-architecture and dynamic web-solutions. 
+            our client where Ungdomsbyen, and the task where to redesign their site and improve 
+            the information-architecture</p>
+            <Button>click here to watch the original product</Button>
+            <Button>click here to watch the process and final product</Button>
     </div>
 </div>
 
 <div class="same">
     
-    <!-- <img class="img4" src="./same.png" alt=""> -->
+    <img class="img4" src="./vildskud_com.png" alt="">
 
    
 
     <div class="indhold4">
-    <h3>[[ SAME</h3>
-    <p>this project created a fundamental understanding of 
-        the interaction between the user and the userinterface as 
-        well as which theories, tool and metheos to apply for reaseach, 
-        design and text in digital content-production. theme 03 revoles around 
-        different insights about the users instead of guesses and assumptions</p>
-        <Button>click here to watch the process and final product</Button>
+        <h3>[[ Vildskud Festival</h3>
+        <p>SKRIV EN TEKST</p>
+            <Button>click here to watch the original product</Button>
+            <Button>click here to watch the process and final product</Button>
     </div>
 </div>
 
@@ -151,6 +149,7 @@
             display: grid;
             grid-template-columns: 1fr 1fr;
             margin-top: 2rem;
+            margin-inline: 2rem;
         }
 
         /* .img1, .img3 {
@@ -160,8 +159,7 @@
 
         .indhold1, .indhold3 {
             grid-column: 2/3;
-            margin-left: -4rem;
-            margin-right: 2rem;
+            
         }
 
         /* .img2, .img4 {
@@ -173,8 +171,7 @@
             grid-column: 1/2;
             grid-row: 1;
             margin-top: 0;
-            margin-left: 2rem;
-            margin-right: -4rem;
+            
         }
 
             h2 {
@@ -194,8 +191,8 @@
     @media (min-width: 1250px) {
         .disclmr, .grob, .ungdomsbyen, .same {
             padding-inline: 12rem;
-            grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-           
+            grid-template-columns: 1fr 1fr;
+            padding-block: 6rem;
         }
 
         /* .img1, .img3 {
@@ -204,7 +201,7 @@
         } */
 
         .indhold1, .indhold3 {
-            grid-column: 3/5;
+            grid-column: 2/3;
         }
 
         /* .img2, .img4 {
