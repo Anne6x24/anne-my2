@@ -39,7 +39,7 @@ paused=true;
 <h1 on:focus on:pointerenter={mouseOver} on:blur on:pointerleave={mouseOut} id="myBtn" class="heading">ANNE MY MUNKSGAARD THAYSEN</h1>
 
 <div class="pil">
-    <a on:click={() => animateScroll.scrollTo({element: '.menu'})} href="/#/"><img src="./down-arrow.png" alt="pil"></a>
+    <a on:click={() => animateScroll.scrollTo({element: '.about'})} href="/#/"><img src="./down-arrow.png" alt="pil"></a>
 </div>
 
 
@@ -58,10 +58,7 @@ paused=true;
     
 }
 
-.heading {
-    /* margin-left: 2rem; */
-    font-size: medium;
-}
+
 
 #myVideo {
    height: 844px;
@@ -135,9 +132,6 @@ img {
 
 
 @media (min-width: 1024px) {
-    .heading {
-        font-size: xx-large;
-    }
 
     .pil {
     margin-left: 15rem;

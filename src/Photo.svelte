@@ -14,10 +14,14 @@
     <h3>below is different photografys taken by me, for more check out my instagram: <a class="font" href="https://www.instagram.com/annemy.jpg/">@annemy.jpg</a></h3>
 </div>
   
-    <h4>[[ AGENCY6.</h4>
+<div class="top_a">
+    <h4><strong>[[ AGENCY6.</strong></h4>
     <p>"AGENCY6 CREATES CREATIVE CONCEPTS AND CAMPAIGNS FOR BRANDS WITHIN THE REALMS OF FASHION, 
         LIFESTYLE, AND ENTERTAINMENT.  DELIVERING ORIGINAL IMAGERY, WITH THE PURPOSE TO MAKE YOUR 
-        BRAND STAND OUT."</p>
+        BRAND STAND OUT." - <i><a href="https://www.agency6.dk/">www.agency6.dk</a></i> </p>
+    <p><i>the job here was to capture the launching of the merch t-shirts</i></p>
+
+    </div>
     <div class="agency">
 
         <div class="a1">
@@ -56,7 +60,14 @@
     </div>
     
     
-    <h4>[[ lilleTUTU</h4>
+    <div class="top_a">
+        <h4><strong>[[ LILLETUTU</strong></h4>
+        <p>"AGENCY6 CREATES CREATIVE CONCEPTS AND CAMPAIGNS FOR BRANDS WITHIN THE REALMS OF FASHION, 
+            LIFESTYLE, AND ENTERTAINMENT.  DELIVERING ORIGINAL IMAGERY, WITH THE PURPOSE TO MAKE YOUR 
+            BRAND STAND OUT." - <i><a href="https://www.agency6.dk/">www.agency6.dk</a></i> </p>
+        <p><i>the job here was to capture the launching of the merch t-shirts</i></p>
+    
+        </div>
      <div class="tutu">
         
 
@@ -93,7 +104,14 @@
         </div>
     </div>
     
-    <h4>[[ PORTRAITS</h4>
+    <div class="top_a">
+        <h4><strong>[[ PORTRAITS</strong></h4>
+        <p>"AGENCY6 CREATES CREATIVE CONCEPTS AND CAMPAIGNS FOR BRANDS WITHIN THE REALMS OF FASHION, 
+            LIFESTYLE, AND ENTERTAINMENT.  DELIVERING ORIGINAL IMAGERY, WITH THE PURPOSE TO MAKE YOUR 
+            BRAND STAND OUT." - <i><a href="https://www.agency6.dk/">www.agency6.dk</a></i> </p>
+        <p><i>the job here was to capture the launching of the merch t-shirts</i></p>
+    
+        </div>
     <div class="portraits">
         
 
@@ -181,11 +199,15 @@
         
     }
 
+    .top_a {
+        margin-left: 1.5rem;
+        margin-right: 1.5rem;
+    }
+
 
     h4 {
         color: var(--primary-text-color);
-        margin-left: 1.5rem;
-        margin-right: 1.5rem;
+        
     }
 
 
@@ -198,6 +220,11 @@
     .photo {
                 margin-inline: 5rem;
             }
+
+    .top_a {
+        margin-inline: 1.5rem;
+        margin-bottom: 2rem;
+    }
     
 
     .a1:hover, .a2:hover, .a3:hover, .a4:hover, .a5:hover, .a6:hover, .a7:hover, .a8:hover, 
@@ -208,7 +235,7 @@
     }
 
     .agency, .tutu, .portraits {
-        padding-bottom: 10rem;
+        padding-bottom: 4rem;
     }
 
     .a1, .a5, 
@@ -238,10 +265,19 @@
         grid-column: 4/5;
         
     }
-   
+   p {
+       max-width: 75ch;
+   }
 
    
     }
+
+    @media (min-width: 1250px) {
+        .agency, .tutu, .portraits {
+        padding-bottom: 10rem;
+    }
+    }
+
 
 
 </style>
