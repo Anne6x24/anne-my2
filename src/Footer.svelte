@@ -17,6 +17,11 @@ import { scrollTo, scrollRef, scrollTop } from 'svelte-scrolling'
        cursor: pointer;
    }
 
+   h3:hover {
+       cursor: pointer;
+       color: var(--primary-hover-color);
+   }
+
     .foot {
         border-top: 1px solid black;
         border-bottom: 1px solid black;

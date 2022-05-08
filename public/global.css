@@ -21,7 +21,8 @@ body {
 
 
 h1 {
-	font-size: clamp(1.2rem, 1.1199999999999999rem + 0.4000000000000002vw, 1.6rem);
+
+	font-size: clamp(1.5rem, 1.42rem + 0.3999999999999999vw, 1.9rem);
 }
 
 h2 {
@@ -30,11 +31,13 @@ font-size: clamp(1.3rem, 1.2rem + 0.5vw, 1.8rem);
 }
 
 h3 {
-	font-size: clamp(0.8rem, 0.76rem + 0.19999999999999996vw, 1rem);
+	
+font-size: clamp(1rem, 0.94rem + 0.30000000000000004vw, 1.3rem);
 }
 
 p {
-	font-size: clamp(0.5rem, 0.44rem + 0.30000000000000004vw, 0.8rem);
+	
+font-size: clamp(0.7rem, 0.6599999999999999rem + 0.2000000000000001vw, 0.9rem);
 }
 
 a {

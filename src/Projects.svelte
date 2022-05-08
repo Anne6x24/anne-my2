@@ -38,7 +38,7 @@
 </a>
 
     <div class="indhold2">
-        <h3>[[ Ungdomsbyen</h3>
+        <h3>[[ UNGDOMSBYEN</h3>
         <p>this project where centered around information-architecture and dynamic web-solutions. 
             our client where Ungdomsbyen, and the task where to redesign their site and improve 
             the information-architecture</p>
@@ -59,10 +59,8 @@
    
 
     <div class="indhold3">
-        <h3>[[ Ungdomsbyen</h3>
-        <p>this project where centered around information-architecture and dynamic web-solutions. 
-            our client where Ungdomsbyen, and the task where to redesign their site and improve 
-            the information-architecture</p>
+        <h3>[[ SAME</h3>
+        <p>SKRIV TEKST</p>
             <a href="https://annemunksgaard.dk/kea/samedist/">click here to watch the process and final product</a>
     </div>
 </div>
@@ -75,8 +73,11 @@
    
 
     <div class="indhold4">
-        <h3>[[ Vildskud Festival</h3>
-        <p>SKRIV EN TEKST</p>
+        <h3>[[ VILDSKUD FESTIVAL</h3>
+        <p>this project was about creating a sustatineble website with 0.5MB in each page.
+            we had to create designsystems and focus on userbility as well as creating a visual look
+            that reflected the festival
+        </p>
             <a href="https://www.vildskud.dk/">click here to watch the original product</a>
             <div>
             <a href="https://stellular-griffin-4a2fdd.netlify.app/?fbclid=IwAR0AkwMs-BD-GH-223xmekhzzUEQBMX6iOdDwNhfA9YbccflH_AsZJ7fPd4">click here to watch the process and final product</a>
