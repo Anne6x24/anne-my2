@@ -114,7 +114,7 @@
         
 
         <div class="p1">
-            <img src="./p1.JPG" alt="">
+            <img src="./p1.png" alt="">
         </div>
 
         <div class="p2">
@@ -122,7 +122,7 @@
         </div>
 
         <div class="p3">
-            <img src="./p3.JPG" alt="">
+            <img src="./p3.png" alt="">
         </div>
 
         <div class="p4">
