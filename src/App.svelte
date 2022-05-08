@@ -79,6 +79,7 @@
 
 li {
 float: left;
+cursor: pointer;
 }
 
 li a {

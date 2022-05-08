@@ -2,10 +2,10 @@
     export let type;
 </script>
 
-<button class={type}><slot/></button>
+<a href="/" class={type}><slot/></a>
 
 <style>
-    button {
+    a {
         background-color: transparent;
         border: none;
         background-image: none;
@@ -14,7 +14,7 @@
         text-align: left;
     }
 
-    button:hover {
+    a:hover {
         text-decoration: underline;
     }
 </style>

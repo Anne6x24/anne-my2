@@ -15,69 +15,73 @@
 
 <div class="disclmr">
     
-    
+    <a class="link_p" href="http://cecilierichter.dk/kea/08_brugercentreret_design/teater-grob-wp/wordpress/">
     <img class="img1" src="./grob_com.png" alt="">
-   
-   
+    </a>
    
 
     <div class="indhold1">
         <h3>[[ TEATER GROB</h3>
-        <p>theme 08 mainly focuses on working with content-production in forms of SoMe, 
+        <p>this project mainly focused on working with content-production in forms of SoMe, 
             video-produktion and graphic elements across different platforms. 
             this theme had a strong focus on planing, ide-generation and concept development. 
             in this theme our client was Teater Grob and our task where to make a campaign-site and content</p>
-            <Button>click here to watch the process and final product</Button>
+            <a href="http://cecilierichter.dk/kea/08_brugercentreret_design/teater-grob-wp/wordpress/">click here to watch the process and final product</a>
     </div>
 </div>
 
 
 <div class="grob">
     
-    
+    <a class="link_p" href="https://annemunksgaard.dk/kea/02sem/tema09/ungdomsbyen_wp/">
     <img class="img2" src="./ungdom_com.png" alt="">
-   
+</a>
 
     <div class="indhold2">
         <h3>[[ Ungdomsbyen</h3>
-        <p>theme 09 where centered around information-architecture and dynamic web-solutions. 
+        <p>this project where centered around information-architecture and dynamic web-solutions. 
             our client where Ungdomsbyen, and the task where to redesign their site and improve 
             the information-architecture</p>
-            <Button>click here to watch the original product</Button>
-            <Button>click here to watch the process and final product</Button>
-    </div>
+            <a href="https://ungdomsbyen.dk/">click here to watch the original product</a>
+            <div>
+            <a href="https://annemunksgaard.dk/kea/02sem/tema09/ungdomsbyen_wp/">click here to watch the final product</a>
+        </div>
+        </div>
 
     
 </div>
 
 <div class="ungdomsbyen">
     
+    <a class="link_p" href="https://annemunksgaard.dk/kea/samedist/">
     <img class="img3" src="./same_com.png" alt="">
-
+</a>
    
 
     <div class="indhold3">
         <h3>[[ Ungdomsbyen</h3>
-        <p>theme 09 where centered around information-architecture and dynamic web-solutions. 
+        <p>this project where centered around information-architecture and dynamic web-solutions. 
             our client where Ungdomsbyen, and the task where to redesign their site and improve 
             the information-architecture</p>
-            <Button>click here to watch the original product</Button>
-            <Button>click here to watch the process and final product</Button>
+            <a href="https://annemunksgaard.dk/kea/samedist/">click here to watch the process and final product</a>
     </div>
 </div>
 
 <div class="same">
     
+    <a class="link_p" href="https://stellular-griffin-4a2fdd.netlify.app/?fbclid=IwAR0AkwMs-BD-GH-223xmekhzzUEQBMX6iOdDwNhfA9YbccflH_AsZJ7fPd4">
     <img class="img4" src="./vildskud_com.png" alt="">
-
+    </a>
    
 
     <div class="indhold4">
         <h3>[[ Vildskud Festival</h3>
         <p>SKRIV EN TEKST</p>
-            <Button>click here to watch the original product</Button>
-            <Button>click here to watch the process and final product</Button>
-    </div>
+            <a href="https://www.vildskud.dk/">click here to watch the original product</a>
+            <div>
+            <a href="https://stellular-griffin-4a2fdd.netlify.app/?fbclid=IwAR0AkwMs-BD-GH-223xmekhzzUEQBMX6iOdDwNhfA9YbccflH_AsZJ7fPd4">click here to watch the process and final product</a>
+        </div>
+        </div>
 </div>
 
 
@@ -86,7 +90,16 @@
 
 <style>
 
+a {
+    color: white;
+    cursor: pointer;
+    
+}
 
+a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
 
     section {
         background-color:  var(--primary-text-color);
@@ -136,6 +149,19 @@
             margin-right: 2rem;
             margin-bottom: 4rem;
         }
+
+    .link_p:hover {
+        transform: scale(1.1);
+        cursor: pointer;
+    }
+
+    .link_p {
+        cursor: pointer;
+    }
+
+    img:hover {
+        cursor: pointer;
+    }
 
     @media (min-width: 800px) {
         /* .img1, .img2, .img3, .img4 {

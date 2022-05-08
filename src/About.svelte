@@ -7,13 +7,14 @@
         <h2>ANNE MY MUNKSGAARD THAYSEN</h2>
         <h3>MULTIMEDIA / DEGITAL DESIGNER</h3>
 
-        <p class="text">big honesty, big creativity, big dedication, sensitivity, 
-                        joy for community and people. innovation and brainstorming without an ending. 
-                        i know how to program a website/shop using HTML, CSS and JavaScript, i also know how to draw, write, 
-                        paint, design and photograf. I can visualize your or maybe a clients ideas and 
-                        thereby participate in the creation. i can convey culture and aesthetics none the less am 
-                        I a good listener who is not afraid of being critical of norms.i am curious as well as researching 
-                        and currently learning about e-commerce through my education
+        <p class="text">working with storytelling and graphic elements as well as creating the best 
+            unserexperience in different web-solutions, is the core of how I view my future. The mix of creativity and
+            creating something userfriendly is the key of how i work as a
+            multimediadesignstudent. One that note, is one of my biggest personal dreams work-wise to be a 
+            part of a new generation who focus on sustatineble web-solutions and sustatineble ways of creating grafic elements.
+            That is why, I would love to gain a job, where I can use what I have learned and thereby
+            do something constructive with it and hopefully also learn a lot of new things.
+            
                     </p>
     </div>
 
@@ -40,6 +41,7 @@
     <li><p>cms-systems: Wordpress and Shopify</p></li>
     <li><p>online banners</p></li>
     <li><p>user-interfaces, interactive flows and digital solutions</p></li>
+    <li><p>asserbility webdesigns</p></li>
 </ul>
 </div>
 
@@ -86,6 +88,7 @@
 
     .top {
         margin: 2rem;
+        
     }
 
  
