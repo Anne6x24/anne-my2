@@ -101,7 +101,7 @@ img {
     #myVideo {
    /* height: 1080px; */
     width: 640px;
-    height: 26.75rem;
+    
     height: clamp(26.75rem, 16.287921348314605rem + 42.921348314606746vw, 50.625rem);
    
 }

@@ -60,7 +60,10 @@
 
     <div class="indhold3">
         <h3>[[ SAME</h3>
-        <p>SKRIV TEKST</p>
+        <p>this project was mainly about creating our own font. but it was
+            also about understanding typographies and learing about how fonts can be sustaineble
+            using virable fonts
+        </p>
             <a href="https://annemunksgaard.dk/kea/samedist/">click here to watch the process and final product</a>
     </div>
 </div>
