@@ -25,35 +25,35 @@
     <div class="agency">
 
         <div class="a1">
-            <img src="./a1.jpg" alt="">
+            <img src="./a1.webp" alt="">
         </div>
 
         <div class="a2">
-            <img src="./a2.jpg" alt="">
+            <img src="./a2.webp" alt="">
         </div>
 
         <div class="a3">
-            <img src="./a3.jpg" alt="">
+            <img src="./a3.webp" alt="">
         </div>
 
         <div class="a4">
-            <img src="./a4.jpg" alt="">
+            <img src="./a4.webp" alt="">
         </div>
 
         <div class="a5">
-            <img src="./a5.jpg" alt="">
+            <img src="./a5.webp" alt="">
         </div>
 
         <div class="a6">
-            <img src="./a6.jpg" alt="">
+            <img src="./a6.webp" alt="">
         </div>
 
         <div class="a7">
-            <img src="./a7.jpg" alt="">
+            <img src="./a7.webp" alt="">
         </div>
 
         <div class="a8">
-            <img src="./a8.jpg" alt="">
+            <img src="./a8.webp" alt="">
         </div>
 
 
@@ -71,35 +71,35 @@
         
 
         <div class="t1">
-            <img src="./t1.jpg" alt="">
+            <img src="./t1.webp" alt="">
         </div>
 
         <div class="t2">
-            <img src="./t2.jpg" alt="">
+            <img src="./t2.webp" alt="">
         </div>
 
         <div class="t3">
-            <img src="./t3.jpg" alt="">
+            <img src="./t3.webp" alt="">
         </div>
 
         <div class="t4">
-            <img src="./t4.jpg" alt="">
+            <img src="./t4.webp" alt="">
         </div>
 
         <div class="t5">
-            <img src="./t5.jpg" alt="">
+            <img src="./t5.webp" alt="">
         </div>
 
         <div class="t6">
-            <img src="./t6.jpg" alt="">
+            <img src="./t6.webp" alt="">
         </div>
 
         <div class="t7">
-            <img src="./t7.jpg" alt="">
+            <img src="./t7.webp" alt="">
         </div>
 
         <div class="t8">
-            <img src="./t8.jpg" alt="">
+            <img src="./t8.webp" alt="">
         </div>
     </div>
     
@@ -114,35 +114,35 @@
         
 
         <div class="p1">
-            <img src="./p1.png" alt="">
+            <img src="./p1.webp" alt="">
         </div>
 
         <div class="p2">
-            <img src="./p2.jpg" alt="">
+            <img src="./p2.webp" alt="">
         </div>
 
         <div class="p3">
-            <img src="./p3.png" alt="">
+            <img src="./p3.webp" alt="">
         </div>
 
         <div class="p4">
-            <img src="./p4.jpg" alt="">
+            <img src="./p4.webp" alt="">
         </div>
 
         <div class="p5">
-            <img src="./p5.jpg" alt="">
+            <img src="./p5.webp" alt="">
         </div>
 
         <div class="p6">
-            <img src="./p6.jpg" alt="">
+            <img src="./p6.webp" alt="">
         </div>
 
         <div class="p7">
-            <img src="./p7.JPG" alt="">
+            <img src="./p7.webp" alt="">
         </div>
 
         <div class="p8">
-            <img src="./p8.jpg" alt="">
+            <img src="./p8.webp" alt="">
         </div>
     </div>
     
