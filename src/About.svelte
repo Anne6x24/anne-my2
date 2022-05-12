@@ -5,13 +5,13 @@
 <div class="top">
     <div class="top_text">
         <h2>ANNE MY MUNKSGAARD THAYSEN</h2>
-        <h3>MULTIMEDIA / DEGITAL DESIGNER</h3>
+        <h3>MULTIMEDIA / DIGITAL DESIGNER</h3>
 
-        <p class="text">working with storytelling and graphic elements as well as creating the best 
-            unserexperience in different web-solutions, is the core of how I view my future. The mix of creativity and
-            creating something userfriendly is the key of how i work as a
-            multimediadesignstudent. One that note, is one of my biggest personal dreams work-wise to be a 
-            part of a new generation who focus on sustatineble web-solutions and sustatineble ways of creating grafic elements.
+        <p class="text">Working with storytelling and graphic elements as well as creating the best 
+            userexperience in different web-solutions, is the core of how I view my future. The mix of creativity and
+            creating something userfriendly is the key of how I work as a
+            multimediadesignstudent. One that note, one of my biggest personal dreams work-wise is to be a 
+            part of a new generation who focus on sustainable web-solutions and sustainable ways of creating graphic elements.
             That is why, I would love to gain a job, where I can use what I have learned and thereby
             do something constructive with it and hopefully also learn a lot of new things.
             
@@ -33,44 +33,44 @@
 <div>
 <h3>[[INTERFACE DESIGN</h3>
 <ul class="skills">
-    <li><p>responsive webdesign</p></li>
-    <li><p>code using: HTML, CSS, JavaScript, Tailwind and Svelte</p></li>
-    <li><p>designsystems</p></li>
-    <li><p>landing pages</p></li>
-    <li><p>onepagers and microsites</p></li>
-    <li><p>cms-systems: Wordpress and Shopify</p></li>
-    <li><p>online banners</p></li>
-    <li><p>user-interfaces, interactive flows and digital solutions</p></li>
-    <li><p>asserbility webdesigns</p></li>
+    <li><p>Responsive webdesign</p></li>
+    <li><p>Code using: HTML, CSS, JavaScript, Tailwind and Svelte</p></li>
+    <li><p>Designsystems</p></li>
+    <li><p>Landing pages</p></li>
+    <li><p>Onepagers and microsites</p></li>
+    <li><p>CMS-systems: Wordpress and Shopify</p></li>
+    <li><p>Online banners</p></li>
+    <li><p>User-interfaces, interactive flows and digital solutions</p></li>
+    <li><p>Accessibility webdesigns</p></li>
 </ul>
 </div>
 
 <div>
 <h3>[[CORPORATE DESIGN AND CREATIVE PRODUCTION</h3>
 <ul class="skills">
-    <li><p>logo-design</p></li>
-    <li><p>illustrations and animations</p></li>
-    <li><p>prototypes, styletiles and moodboards</p></li>
-    <li><p>research-processes, contentproduction and sketches</p></li>
-    <li><p>Adobe programs such as Photoshop, Illistrator, After Effects, Lightroon and InDesign</p></li>
-    <li><p>video/photo-production and editing with small skills of colorgrading/correction</p></li>
+    <li><p>Logo-design</p></li>
+    <li><p>Illustrations and animations</p></li>
+    <li><p>Prototypes, styletiles and moodboards</p></li>
+    <li><p>Research-processes, contentproduction and sketches</p></li>
+    <li><p>Adobe programs such as Photoshop, Illustrator, After Effects, Lightroom and InDesign</p></li>
+    <li><p>Video/photo-production and editing with small skills of colorgrading/correction</p></li>
 </ul>
 </div>
 
 <div>
 <h3>[[INFORMATION DESIGN</h3>
 <ul class="skills">
-    <li><p>informationsystems and designs</p></li>
-    <li><p>infografik og diagrammer</p></li>
-    <li><p>campaindesign</p></li>
-    <li><p>poster and flyer-design</p></li>
-    <li><p>custumer-segment, web redesigns and optimization </p></li>
+    <li><p>Informationsystems and designs</p></li>
+    <li><p>Infografik and diagrams</p></li>
+    <li><p>Campaindesign</p></li>
+    <li><p>Poster and flyer-design</p></li>
+    <li><p>Costumer-segment, web-redesigns and optimization </p></li>
 </ul>
 </div>
 
 </div>
 
-<p class="bottom">listed skillset is documentet below in different projects</p>
+<p class="bottom">Listed skillset is documented below in different projects</p>
 
 </section>
 <style>

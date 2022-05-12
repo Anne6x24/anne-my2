@@ -10,8 +10,8 @@
  
 
 <div class="photo_top">
-    <h2>PHOTOGRAFY/GRAFICS</h2>
-    <h3>below is different photografys taken by me, for more check out my instagram: <a class="font" href="https://www.instagram.com/annemy.jpg/">@annemy.jpg</a></h3>
+    <h2>PHOTOGRAPHY/GRAFICS</h2>
+    <h3>The pictures below are taken by me, for more check out my instagram: <a class="font" href="https://www.instagram.com/annemy.jpg/">@annemy.jpg</a></h3>
 </div>
   
 <div class="top_a">
@@ -19,7 +19,7 @@
     <p>"AGENCY6 CREATES CREATIVE CONCEPTS AND CAMPAIGNS FOR BRANDS WITHIN THE REALMS OF FASHION, 
         LIFESTYLE, AND ENTERTAINMENT.  DELIVERING ORIGINAL IMAGERY, WITH THE PURPOSE TO MAKE YOUR 
         BRAND STAND OUT." - <i><a href="https://www.agency6.dk/">www.agency6.dk</a></i> </p>
-    <p><i>the job here was to capture the launching of the merch t-shirts</i></p>
+    <p><i>the job here was to capture the launching of their merch</i></p>
 
     </div>
     <div class="agency">
@@ -62,9 +62,9 @@
     
     <div class="top_a">
         <h4><strong>[[ LILLETUTU</strong></h4>
-        <p>LILLE TUTU IS A LOT MORE THAN JUST A SECONDHAND. THEY CREATE THEIR OWN CHLOTING BY UPCYCLING 
-            USED CHLOTHES WHILE HELPING FAMILIES CLEANING OUR THEIR KIDS CLOSETS. - <i><a href="https://annemunksgaard.dk/kea/02sem/lilletutu/tutulille_wp/">www.lilletutu_secondhand.dk</a></i> </p>
-        <p><i>the job here was to capture the styles in a fall/fun envirement</i></p>
+        <p>LILLE TUTU IS A LOT MORE THAN JUST A SECONDHAND STORE. THEY CREATE THEIR OWN CLOTHING BY UPCYCLING 
+            USED CLOTHES WHILE HELPING FAMILIES CLEANING OUR THEIR KIDS CLOSETS. - <i><a href="https://annemunksgaard.dk/kea/02sem/lilletutu/tutulille_wp/">www.lilletutu_secondhand.dk</a></i> </p>
+        <p><i>The job here was to capture the styles in a fall/fun envirement</i></p>
     
         </div>
      <div class="tutu">
@@ -105,9 +105,9 @@
     
     <div class="top_a">
         <h4><strong>[[ PORTRAITS</strong></h4>
-        <p>"ALL PICTURES ARE PHOTOS OF PEOPLE I ADORE. IT IS A PORTRAITS AS WELL
+        <p>"ALL PICTURES ARE PHOTOS OF PEOPLE I ADORE. IT IS PORTRAITS AS WELL
             AS A COLLECTION OF MY SURROUNDINGS AND WHAT MY EYES CAPUTURE IN MY SPARETIME." - <i><a href="https://www.instagram.com/annemy.jpg/">@annemy.jpg</a></i> </p>
-        <p><i>this is not a job</i></p>
+        <p><i>this was not a job</i></p>
     
         </div>
     <div class="portraits">

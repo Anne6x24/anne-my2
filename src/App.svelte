@@ -26,7 +26,7 @@
 <ul>
 	<li><a on:click={() => animateScroll.scrollTo({element: '.about'})} href="/#/">[[ ABOUT</a></li>
 	<li><a on:click={() => animateScroll.scrollTo({element: '.bottom'})} href="/#/">[[ KEA-PROJECTS</a></li>
-	<li><a on:click={() => animateScroll.scrollTo({element: '.photo'})} href="/#/">[[ PHOTOGRAFY/GRAFICS</a></li>
+	<li><a on:click={() => animateScroll.scrollTo({element: '.photo'})} href="/#/">[[ PHOTOGRAPHY</a></li>
 	<li><a on:click={() => animateScroll.scrollTo({element: '.contact'})} href="/#/">[[ CONTACT</a></li>
 	</ul>
 

@@ -4,13 +4,13 @@
 <h2 class="overskrift">CONTACT</h2>
 
 <div class="afsnit">
-<li class="liste"><a class="font" href = "mailto: anne.thaysen@gmail.com">[[ anne.thaysen@gmail.com</a></li>
-<li class="liste"><a class="font" href="https://www.instagram.com/annemymunksgaard/">[[ @annemymunksgaard</a></li>
-<li class="liste"><a class="font" href="https://www.instagram.com/annemy.jpg/">[[ @annemy.jpg</a></li>
+<li class="liste"><a class="font" href = "mailto: anne.thaysen@gmail.com" target="_blank">[[ anne.thaysen@gmail.com</a></li>
+<li class="liste"><a class="font" href="https://www.instagram.com/annemymunksgaard/" target="_blank">[[ @annemymunksgaard</a></li>
+<li class="liste"><a class="font" href="https://www.instagram.com/annemy.jpg/" target="_blank">[[ @annemy.jpg</a></li>
 <li class="liste"><a class="font" href="tel:+45 30303749">[[ +45 30303749</a></li>
 </div>
 
-<p class="bund">location - copgenhagen, denmark</p>
+<p class="bund">Location - Copengenhagen, Denmark</p>
 
 </section>
 <style>
